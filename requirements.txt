@@ -1,0 +1,12 @@
+lenskit
+implicit
+numpy
+pandas
+matplotlib
+seaborn
+joblib
+h5py
+openpyxl
+xlrd
+autorank
+binpickle

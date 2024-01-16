@@ -1,0 +1,132 @@
+--------------------------------------------------------------------------------
+Statistical test for validation precision implicit-mf.
+Percentage of masks without statistically significant difference: 0.4365079365079354
+--------------------------------------------------------------------------------
+Statistical test for test precision implicit-mf.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg implicit-mf.
+Percentage of masks without statistically significant difference: 0.4206349206349196
+--------------------------------------------------------------------------------
+Statistical test for test ndcg implicit-mf.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for validation precision user-knn.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for test precision user-knn.
+Percentage of masks without statistically significant difference: 0.4285714285714275
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg user-knn.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for test ndcg user-knn.
+Percentage of masks without statistically significant difference: 0.4206349206349196
+--------------------------------------------------------------------------------
+Statistical test for validation precision item-knn.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for test precision item-knn.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg item-knn.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for test ndcg item-knn.
+Percentage of masks without statistically significant difference: 0.4206349206349196
+--------------------------------------------------------------------------------
+Statistical test for validation precision alternating-least-squares.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for test precision alternating-least-squares.
+Percentage of masks without statistically significant difference: 0.4285714285714275
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg alternating-least-squares.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for test ndcg alternating-least-squares.
+Percentage of masks without statistically significant difference: 0.4206349206349196
+--------------------------------------------------------------------------------
+Statistical test for validation precision bayesian-personalized-ranking.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for test precision bayesian-personalized-ranking.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg bayesian-personalized-ranking.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for test ndcg bayesian-personalized-ranking.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for validation precision logistic-mf.
+Percentage of masks without statistically significant difference: 0.4206349206349196
+--------------------------------------------------------------------------------
+Statistical test for test precision logistic-mf.
+Percentage of masks without statistically significant difference: 0.4285714285714275
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg logistic-mf.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for test ndcg logistic-mf.
+Percentage of masks without statistically significant difference: 0.4206349206349196
+--------------------------------------------------------------------------------
+Statistical test for validation precision item-item-cosine.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for test precision item-item-cosine.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg item-item-cosine.
+Percentage of masks without statistically significant difference: 0.4285714285714275
+--------------------------------------------------------------------------------
+Statistical test for test ndcg item-item-cosine.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for validation precision item-item-tfidf.
+Percentage of masks without statistically significant difference: 0.4285714285714275
+--------------------------------------------------------------------------------
+Statistical test for test precision item-item-tfidf.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg item-item-tfidf.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for test ndcg item-item-tfidf.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for validation precision item-item-bm25.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for test precision item-item-bm25.
+Percentage of masks without statistically significant difference: 0.4285714285714275
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg item-item-bm25.
+Percentage of masks without statistically significant difference: 0.4285714285714275
+--------------------------------------------------------------------------------
+Statistical test for test ndcg item-item-bm25.
+Percentage of masks without statistically significant difference: 0.42460317460317354
+--------------------------------------------------------------------------------
+Statistical test for validation precision random.
+Percentage of masks without statistically significant difference: 0.9999999999999969
+--------------------------------------------------------------------------------
+Statistical test for test precision random.
+Percentage of masks without statistically significant difference: 0.9999999999999969
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg random.
+Percentage of masks without statistically significant difference: 0.9999999999999969
+--------------------------------------------------------------------------------
+Statistical test for test ndcg random.
+Percentage of masks without statistically significant difference: 0.9999999999999969
+--------------------------------------------------------------------------------
+Statistical test for validation precision popularity.
+Percentage of masks without statistically significant difference: 0.44841269841269726
+--------------------------------------------------------------------------------
+Statistical test for test precision popularity.
+Percentage of masks without statistically significant difference: 0.43253968253968145
+--------------------------------------------------------------------------------
+Statistical test for validation ndcg popularity.
+Percentage of masks without statistically significant difference: 0.4444444444444433
+--------------------------------------------------------------------------------
+Statistical test for test ndcg popularity.
+Percentage of masks without statistically significant difference: 0.4365079365079354

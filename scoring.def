@@ -1,0 +1,22 @@
+Bootstrap: docker
+FROM: python:3.9.16
+
+%post
+   apt-get update
+   apt-get install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev wget libbz2-dev liblzma-dev lzma swig python-dev -y
+   pip install --no-cache-dir --upgrade pip
+   pip install lenskit
+   pip install implicit
+   pip install recpack
+   pip install numpy
+   pip install pandas
+   pip install matplotlib
+   pip install seaborn
+   pip install joblib
+   pip install h5py
+   pip install openpyxl
+   pip install xlrd
+   pip install autorank
+
+%runscript
+    echo "Container was created $NOW"
