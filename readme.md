@@ -3,6 +3,12 @@
 ---
 This is the implementation for our study on the optimality of predicted ranked lists.
 
+## Paper
+
+---
+[Accepted](https://www.ecir2024.org/accepted-paper/) in the Full Paper track of ECIR 2024. The link to the Proceedings will be here once it is available.  
+Pre-print available on [arXiv](https://doi.org/10.48550/arXiv.2401.08444).
+
 ## Installation
 
 ---
