@@ -6,8 +6,14 @@ This is the implementation for our study on the optimality of predicted ranked l
 ## Paper
 
 ---
-[Accepted](https://www.ecir2024.org/accepted-paper/) in the Full Paper track of ECIR 2024. The link to the Proceedings will be here once it is available.  
-Pre-print available on [arXiv](https://doi.org/10.48550/arXiv.2401.08444).
+[Accepted](https://www.ecir2024.org/accepted-paper/) in the Full Paper track of ECIR 2024.  
+The paper is available in the [conference proceedings in Advances in Information Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_9).  
+A pre-print is available on [arXiv](https://doi.org/10.48550/arXiv.2401.08444).
+
+## Presentation
+
+---
+The presentation slides are available in the presentation folder in this repository.
 
 ## Installation
 
